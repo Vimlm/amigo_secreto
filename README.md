@@ -3,6 +3,10 @@
 ## 📌 Sobre o Projeto
 Este projeto é um sistema para sorteio de amigo secreto, facilitando a organização e gestão de participantes de forma simples e eficiente.
 
+## 🧑‍💻 Deploy do projeto
+Veja o projeto clicando no link:
+https://amigo-secreto-beige-eight.vercel.app/ 
+
 ## 🚀 Tecnologias Utilizadas
 - HTML
 - CSS
